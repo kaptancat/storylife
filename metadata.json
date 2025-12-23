@@ -1,0 +1,8 @@
+
+{
+  "name": "Yaratıcı Hikaye Yazma ve Öğrenci Değerlendirme Sistemi",
+  "description": "Öğrencilerin yaratıcı hikaye yazma becerilerini analiz eden, el yazısını dijitalleştiren ve yapay zeka ile profesyonel değerlendirme sunan gelişmiş eğitim platformu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
